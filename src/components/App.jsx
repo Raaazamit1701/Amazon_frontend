@@ -28,7 +28,7 @@ const CustomLayout = () => {
       <Header />
       <ScrollToTop />
       <Outlet />
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 };
